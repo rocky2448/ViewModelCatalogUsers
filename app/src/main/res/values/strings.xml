@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Catalog Users 2</string>
+    <string name="edit_text_name">Введите имя пользователя</string>
+    <string name="edit_text_age">Введите возраст пользователя</string>
+    <string name="button_save">Сохранить</string>
+    <string name="menu_exit">Выйти</string>
+</resources>
